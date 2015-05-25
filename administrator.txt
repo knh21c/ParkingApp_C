@@ -1,0 +1,17 @@
+master       master            1 
+0            0                 0 
+0            0                 0 
+0            0                 0 
+admin01      admin01           2 
+admin02      admin02           2 
+admin03      admin03           3 
+admin04      admin04           3 
+admin05      admin05           3 
+admin06      admin06           2 
+admin07      admin07           3 
+admin08      admin08           3 
+admin10      admin10           3 
+admin11      admin11           3 
+knh          knh               3 
+0            0                 0 
+kimkim       8685              3 
