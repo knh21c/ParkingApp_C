@@ -6,8 +6,6 @@
 
 *실행 화면
 
-실행 화면
-
 1 메인 화면
 
 ![alt text] (screenshots/main.png)
