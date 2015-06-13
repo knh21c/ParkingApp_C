@@ -1,5 +1,5 @@
 # ParkingApp_C
-##주차 관리 프로그램(C언어)
+##가상의 3층으로 구성된 주차장 관리 프로그램(C언어)
 ###[파일 링크](https://github.com/knh21c/ParkingApp_C/archive/master.zip)
 
 가상의 3층으로 구성된 주차장 관리 프로그램
